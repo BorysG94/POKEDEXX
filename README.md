@@ -2,13 +2,19 @@
 POKEDEXX is my second aplication in my swift portfolio, 
 
 Once again i want to train with:
+
 -API i create json file to be used
+
 -MVVM architecture.
 
 I also try implement:
+
 -SwfitUi
+
 -Searchbar
+
 -Detials view
+
 -Animations
 
 i want to create simple design and also simple code 
