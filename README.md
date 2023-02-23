@@ -8,15 +8,20 @@ Add to that when user type in search bar app only show pokemons with letter user
 below i will attach some screen and videos
 
 Main view
+
+
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-02-23 at 13 58 53](https://user-images.githubusercontent.com/124820395/220917384-376493a8-4b7f-4d6e-9684-7e53ef92bbdb.png)
 
 Pokemon detail view
 
-video showing whole main view
-https://user-images.githubusercontent.com/124820395/220916818-354f8457-71a3-4207-a491-74d960f2753c.mov
+showing whole main view
+![record 1](https://user-images.githubusercontent.com/124820395/220921229-b8ae1029-765e-4d9d-8f84-55e87722355f.gif)
+
+
 
 video showing searching animation
 
+![record 2](https://user-images.githubusercontent.com/124820395/220921239-caa54a19-6ab1-4fa3-9c81-4a3105ab993b.gif)
 
-https://user-images.githubusercontent.com/124820395/220917345-7796fa03-90e8-48e9-946b-8fbcbacedd19.mov
+
 
