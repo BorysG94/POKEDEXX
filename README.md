@@ -1,11 +1,19 @@
 # POKEDEXX
-POKEDEXX is my second aplication in swift, once again i want to train with API i create json file to be used, and also use MVVM architecture.
+POKEDEXX is my second aplication in my swift portfolio, 
 
-In this project i use SwiftUI, also i add functionality like search bar and another view with pokemon details.
+Once again i want to train with:
+-API i create json file to be used
+-MVVM architecture.
 
-Add to that when user type in search bar app only show pokemons with letter user type in search bar
+I also try implement:
+-SwfitUi
+-Searchbar
+-Detials view
+-Animations
 
-below i will attach some screen and videos
+i want to create simple design and also simple code 
+
+below i will attach some screen and videos pleas share any coments.
 
      
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-02-23 at 13 58 53](https://user-images.githubusercontent.com/124820395/220917384-376493a8-4b7f-4d6e-9684-7e53ef92bbdb.png)
@@ -17,4 +25,5 @@ below i will attach some screen and videos
 
 1.) Main view
 2.) Pokemon Detail View
-3.) Searching animations
+3.) Main views
+4.) Searching animations
